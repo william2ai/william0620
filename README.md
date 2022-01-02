@@ -1,7 +1,7 @@
 ### Hi, I'm William.W 👋
 
 - 🔭 I’m currently working on BackEnd, ACM , Data Science
-- 🌱 I’m currently learning Go, ML ,R
+- 🌱 I’m currently learning Go, ML ,python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william0620&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
