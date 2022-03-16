@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on BackEnd, ACM , Data Science
 - 🌱 I’m currently learning Go, ML ,Python
 - 🐧 I'm now working on 3D reconstruction field
--![3$ QQ@C4)PLGJE 2SMIS32M](https://user-images.githubusercontent.com/68418870/158643555-7aeed29d-abf8-4254-ba61-af22608210a5.png) If you are also working on essays about NeRF, DM is welcomed
+- 
+-![3$ QQ@C4)PLGJE 2SMIS32M](https://user-images.githubusercontent.com/68418870/158643555-7aeed29d-abf8-4254-ba61-af22608210a5.png) If you are also working on essays about NeRF, emailing me is really welcomed
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william0620&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
