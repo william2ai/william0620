@@ -1,6 +1,6 @@
 ### Hi, I'm William.W 👋
 
-- 🔭 I’m currently working on BackEnd, ACM , Data Science
+- 🔭 I’m currently studying BackEnd, ACM , Data Science
 - 🌱 I’m currently learning Go, ML ,Python
 - 🐧 I'm now working on 3D reconstruction field
 - ![3$ QQ@C4)PLGJE 2SMIS32M](https://user-images.githubusercontent.com/68418870/158643555-7aeed29d-abf8-4254-ba61-af22608210a5.png) If you are also working on essays about NeRF, emailing me is really welcomed
